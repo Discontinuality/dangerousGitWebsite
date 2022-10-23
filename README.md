@@ -16,3 +16,5 @@ Excerpt From
 Learn Enough Git to Be Dangerous
 Michael Hartl
 This material may be protected by copyright.
+
+For more information on Git, see the [official Git documentation](http://git-scm.com/).
